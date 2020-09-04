@@ -21,7 +21,7 @@ Development and Programming</a></li>
 Security Tools</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(6).pdf" style="text-decoration:none;">Computer Networking: Principles,
 Protocols and Practice</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(7).pdf" style="text-decoration:none;">Combining Neural Networks and Log-linear Models to Improve Relation Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(7).pdf" style="text-decoration:none;">CK-12 Biology I</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(8).pdf" style="text-decoration:none;"> Elementary Differential Equations with Boundary Value Problems</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(9).pdf" style="text-decoration:none;">Multimedia Fingerprinting Forensics for
@@ -71,7 +71,7 @@ Electricity, Magnetism and Optics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(27).pdf" style="text-decoration:none;">Information Systems for Business and Beyond</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(28).pdf" style="text-decoration:none;">Identifying Relations for Open Information Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(28).pdf" style="text-decoration:none;">Classification, symmetry and the periodic table</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Science-Textbooks/blob/master/sck(29).pdf" style="text-decoration:none;">Educational Learning Theories: 2nd Edition</a></li>                              
 
